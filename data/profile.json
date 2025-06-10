@@ -1,0 +1,37 @@
+{
+    "name": "Ma'mun Faizun Idan",
+    "description": "I am a student at Semarang State Polytechnic, majoring in Electrical Engineering with a focus on the D3 Electronics program, currently holding a GPA of 3.5. I demonstrate strong capabilities in both team and individual work, exhibit discipline and responsibility in my tasks, and possess a quick learning ability for new concepts. I am communicative and have a keen interest in exploring various fields, particularly in PLC, PPID, Process Engineering, and Research and Development.",
+    "profileImage": "images/FOTO-MAMUN.png",
+    "email": "mfidan728@gmail.com",
+    "phone": "+62-896-5053-9043",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": ""
+        },
+        {
+            "platform": "GitHub",
+            "url": ""
+        },
+        {
+            "platform": "Twitter",
+            "url": ""
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CurriculumVitae_Ma'mun Faizun Idan.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 90},
+        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
+    ]
+}
